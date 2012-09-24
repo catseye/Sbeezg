@@ -1,0 +1,4 @@
+syntax: glob
+
+*.beam
+sbeezg_parser.erl
